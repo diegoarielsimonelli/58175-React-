@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: "Roboto", "Oxygen";
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+li {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+li {
+  margin-left: 2rem;
+}
+.active {
+  font-weight: bold;
+  color: black;
+}
